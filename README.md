@@ -1,11 +1,13 @@
 # 🎓 GL Bajaj Institute of Technology and Management
-### 💼 Career Development Centre
-## 📝 Summer Vacation Self Learning Assignments
+### 💼 Career Development Centre  
+### 📝 Summer Vacation Self Learning Assignments
 
+---
 
 ## 👨‍🎓 Student Details  
 - Name: Ansh Chikara  
-- Course: B.Tech CSE-AI  
+- Course: B.Tech CSE-AI
+- Roll No: 2501921520078 
 
 ---
 
@@ -20,10 +22,10 @@
 
 ### 📅 Day 1: Basic Math & Numerical Problems
 *Status: 🟢 Completed*
-- [x] **Q1:** Calculate sum of first N natural numbers ([Day 1/sum_natural_numbers.cpp](file:///Users/anshchikara/Desktop/Summer%20Assignment/Day%201/sum_natural_numbers.cpp)) `[TCS, Infosys, Wipro]`
-- [x] **Q2:** Print multiplication table of a given number ([Day 1/multiplication_table.cpp](file:///Users/anshchikara/Desktop/Summer%20Assignment/Day%201/multiplication_table.cpp)) `[TCS, Infosys, Wipro]`
-- [x] **Q3:** Find factorial of a number ([Day 1/factorial.cpp](file:///Users/anshchikara/Desktop/Summer%20Assignment/Day%201/factorial.cpp)) `[TCS, Infosys, Wipro]`
-- [x] **Q4:** Count digits in a number ([Day 1/count_digits.cpp](file:///Users/anshchikara/Desktop/Summer%20Assignment/Day%201/count_digits.cpp)) `[TCS, Infosys, Wipro]`
+- [x] **Q1:** Calculate sum of first N natural numbers ([Day 1/sum_natural_numbers.cpp](file:///Users/anshchikara/Desktop/Summer%20Assignment/Day%201/sum_natural_numbers.cpp)) `[TCS, Infosys, Wipro]`✅
+- [x] **Q2:** Print multiplication table of a given number ([Day 1/multiplication_table.cpp](file:///Users/anshchikara/Desktop/Summer%20Assignment/Day%201/multiplication_table.cpp)) `[TCS, Infosys, Wipro]`✅
+- [x] **Q3:** Find factorial of a number ([Day 1/factorial.cpp](file:///Users/anshchikara/Desktop/Summer%20Assignment/Day%201/factorial.cpp)) `[TCS, Infosys, Wipro]`✅
+- [x] **Q4:** Count digits in a number ([Day 1/count_digits.cpp](file:///Users/anshchikara/Desktop/Summer%20Assignment/Day%201/count_digits.cpp)) `[TCS, Infosys, Wipro]`✅
 
 ---
 
