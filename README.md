@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 8 / 120
+- **Completed:** 12 / 120
 
 
 ---
@@ -31,19 +31,19 @@
 
 ### 📅 Day 2: Basic Operations & Digits
 *Status: 🟢 Completed*
-- [ ] **Q5:** Find sum of digits of a number `[TCS, Infosys, Wipro]` ✅
-- [ ] **Q6:** Reverse a number `[TCS, Infosys, Wipro]`✅
-- [ ] **Q7:** Find product of digits `[TCS, Infosys, Wipro]`✅
-- [ ] **Q8:** Check whether a number is palindrome `[TCS, Infosys, Wipro]`✅
+- [x] **Q5:** Find sum of digits of a number `[TCS, Infosys, Wipro]` ✅
+- [x] **Q6:** Reverse a number `[TCS, Infosys, Wipro]`✅
+- [x] **Q7:** Find product of digits `[TCS, Infosys, Wipro]`✅
+- [x] **Q8:** Check whether a number is palindrome `[TCS, Infosys, Wipro]`✅
 
 ---
 
 ### 📅 Day 3: Prime Numbers & Math Theories
-*Status: ⚪ Not Started*
-- [ ] **Q9:** Check whether a number is prime `[TCS, Infosys, Wipro]`
-- [ ] **Q10:** Print prime numbers in a range `[TCS, Infosys, Wipro]`
-- [ ] **Q11:** Find GCD of two numbers `[TCS, Infosys, Wipro]`
-- [ ] **Q12:** Find LCM of two numbers `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q9:** Check whether a number is prime `[TCS, Infosys, Wipro]`✅
+- [x] **Q10:** Print prime numbers in a range `[TCS, Infosys, Wipro]`✅
+- [x] **Q11:** Find GCD of two numbers `[TCS, Infosys, Wipro]`✅
+- [x] **Q12:** Find LCM of two numbers `[TCS, Infosys, Wipro]`✅
 
 ---
 
