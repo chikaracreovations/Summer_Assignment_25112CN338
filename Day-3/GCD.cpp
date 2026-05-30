@@ -11,7 +11,7 @@ int main() {
     int gcd = 1; 
 
     
-    for (int i = 1; i <= min(abs(num1), abs(num2)); i++) {
+    for (int i = 1; i <= min(num1,num2); i++) {
         if (num1 % i == 0 && num2 % i == 0) {
             gcd = i; 
         }
