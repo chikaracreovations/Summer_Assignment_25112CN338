@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 using namespace std;
 
 int main() {
@@ -13,7 +12,7 @@ int main() {
     int b = num2;
     int gcd = 1;
 
-    for (int i = 1; i <= min(abs(a), abs(b)); i++) {
+    for (int i = 1; i <= min(a,b); i++) {
         if (a % i == 0 && b % i == 0) {
             gcd = i;
         }
