@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 12 / 120
+- **Completed:** 20 / 120
 
 
 ---
@@ -48,20 +48,20 @@
 ---
 
 ### 📅 Day 4: Sequences & Special Numbers
-*Status: ⚪ Not Started*
-- [ ] **Q13:** Generate Fibonacci series `[TCS, Infosys, Wipro]`
-- [ ] **Q14:** Find nth Fibonacci term `[TCS, Infosys, Wipro]`
-- [ ] **Q15:** Check Armstrong number `[TCS, Infosys, Wipro]`
-- [ ] **Q16:** Print Armstrong numbers in a range `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q13:** Generate Fibonacci series `[TCS, Infosys, Wipro]`✅
+- [x] **Q14:** Find nth Fibonacci term `[TCS, Infosys, Wipro]`✅
+- [x] **Q15:** Check Armstrong number `[TCS, Infosys, Wipro]`✅
+- [x] **Q16:** Print Armstrong numbers in a range `[TCS, Infosys, Wipro]`✅
 
 ---
 
 ### 📅 Day 5: Numbers & Factors
-*Status: ⚪ Not Started*
-- [ ] **Q17:** Check perfect number `[TCS, Infosys, Wipro]`
-- [ ] **Q18:** Check strong number `[TCS, Infosys, Wipro]`
-- [ ] **Q19:** Print factors of a number `[TCS, Infosys, Wipro]`
-- [ ] **Q20:** Find largest prime factor `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q17:** Check perfect number `[TCS, Infosys, Wipro]`✅
+- [x] **Q18:** Check strong number `[TCS, Infosys, Wipro]`✅
+- [x] **Q19:** Print factors of a number `[TCS, Infosys, Wipro]`✅
+- [x] **Q20:** Find largest prime factor `[TCS, Infosys, Wipro]`✅
 
 ---
 
