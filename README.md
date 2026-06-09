@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 20 / 120
+- **Completed:** 36 / 120
 
 
 ---
@@ -66,38 +66,38 @@
 ---
 
 ### 📅 Day 6: Conversions & Bit Manipulation
-*Status: ⚪ Not Started*
-- [ ] **Q21:** Convert decimal to binary `[TCS, Infosys, Wipro]`
-- [ ] **Q22:** Convert binary to decimal `[TCS, Infosys, Wipro]`
-- [ ] **Q23:** Count set bits in a number `[TCS, Infosys, Wipro]`
-- [ ] **Q24:** Find x^n without pow() `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q21:** Convert decimal to binary `[TCS, Infosys, Wipro]`✅
+- [x] **Q22:** Convert binary to decimal `[TCS, Infosys, Wipro]`✅
+- [x] **Q23:** Count set bits in a number `[TCS, Infosys, Wipro]`✅
+- [x] **Q24:** Find x^n without pow() `[TCS, Infosys, Wipro]`✅
 
 ---
 
 ### 📅 Day 7: Recursion Basics
-*Status: ⚪ Not Started*
-- [ ] **Q25:** Recursive factorial `[TCS, Infosys, Wipro]`
-- [ ] **Q26:** Recursive Fibonacci `[TCS, Infosys, Wipro]`
-- [ ] **Q27:** Recursive sum of digits `[TCS, Infosys, Wipro]`
-- [ ] **Q28:** Recursive reverse number `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q25:** Recursive factorial `[TCS, Infosys, Wipro]`✅
+- [x] **Q26:** Recursive Fibonacci `[TCS, Infosys, Wipro]`✅
+- [x] **Q27:** Recursive sum of digits `[TCS, Infosys, Wipro]`✅
+- [x] **Q28:** Recursive reverse number `[TCS, Infosys, Wipro]`✅
 
 ---
 
 ### 📅 Day 8: Basic Patterns
-*Status: ⚪ Not Started*
-- [ ] **Q29:** Print half pyramid pattern `[TCS, Infosys, Wipro]`
-- [ ] **Q30:** Print number triangle (1, 12, 123...) `[TCS, Infosys, Wipro]`
-- [ ] **Q31:** Print character triangle (A, AB, ABC...) `[Microsoft, Adobe, Paytm]`
-- [ ] **Q32:** Print repeated-number pattern (1, 22, 333...) `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q29:** Print half pyramid pattern `[TCS, Infosys, Wipro]`✅
+- [x] **Q30:** Print number triangle (1, 12, 123...) `[TCS, Infosys, Wipro]`✅
+- [x] **Q31:** Print character triangle (A, AB, ABC...) `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q32:** Print repeated-number pattern (1, 22, 333...) `[TCS, Infosys, Wipro]`✅
 
 ---
 
 ### 📅 Day 9: Intermediate Patterns
-*Status: ⚪ Not Started*
-- [ ] **Q33:** Print reverse star pattern `[TCS, Infosys, Wipro]`
-- [ ] **Q34:** Print reverse number triangle (12345, 1234...) `[TCS, Infosys, Wipro]`
-- [ ] **Q35:** Print repeated character pattern (A, BB, CCC...) `[Microsoft, Adobe, Paytm]`
-- [ ] **Q36:** Print hollow square pattern `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q33:** Print reverse star pattern `[TCS, Infosys, Wipro]`✅
+- [x] **Q34:** Print reverse number triangle (12345, 1234...) `[TCS, Infosys, Wipro]`✅
+- [x] **Q35:** Print repeated character pattern (A, BB, CCC...) `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q36:** Print hollow square pattern `[TCS, Infosys, Wipro]`✅
 
 ---
 
