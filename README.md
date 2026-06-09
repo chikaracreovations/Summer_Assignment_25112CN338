@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 36 / 120
+- **Completed:** 44 / 120
 
 
 ---
@@ -102,20 +102,20 @@
 ---
 
 ### 📅 Day 10: Advanced Patterns
-*Status: ⚪ Not Started*
-- [ ] **Q37:** Print star pyramid `[TCS, Infosys, Wipro]`
-- [ ] **Q38:** Print reverse pyramid `[TCS, Infosys, Wipro]`
-- [ ] **Q39:** Print number pyramid (1, 121, 12321...) `[TCS, Infosys, Wipro]`
-- [ ] **Q40:** Print character pyramid (A, ABA, ABCBA...) `[Microsoft, Adobe, Paytm]`
+*Status: 🟢 Completed*
+- [x] **Q37:** Print star pyramid `[TCS, Infosys, Wipro]`✅
+- [x] **Q38:** Print reverse pyramid `[TCS, Infosys, Wipro]`✅
+- [x] **Q39:** Print number pyramid (1, 121, 12321...) `[TCS, Infosys, Wipro]`✅
+- [x] **Q40:** Print character pyramid (A, ABA, ABCBA...) `[Microsoft, Adobe, Paytm]`✅
 
 ---
 
 ### 📅 Day 11: Simple Functions
-*Status: ⚪ Not Started*
-- [ ] **Q41:** Write function to find sum of two numbers `[TCS, Infosys, Wipro]`
-- [ ] **Q42:** Write function to find maximum `[TCS, Infosys, Wipro]`
-- [ ] **Q43:** Write function to check prime `[TCS, Infosys, Wipro]`
-- [ ] **Q44:** Write function to find factorial `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q41:** Write function to find sum of two numbers `[TCS, Infosys, Wipro]`✅
+- [x] **Q42:** Write function to find maximum `[TCS, Infosys, Wipro]`✅
+- [x] **Q43:** Write function to check prime `[TCS, Infosys, Wipro]`✅
+- [x] **Q44:** Write function to find factorial `[TCS, Infosys, Wipro]`✅
 
 ---
 
