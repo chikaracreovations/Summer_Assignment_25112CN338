@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 44 / 120
+- **Completed:** 48 / 120
 
 
 ---
@@ -120,11 +120,11 @@
 ---
 
 ### 📅 Day 12: Functions with Numerical Logic
-*Status: ⚪ Not Started*
-- [ ] **Q45:** Write function for palindrome `[TCS, Infosys, Wipro]`
-- [ ] **Q46:** Write function for Armstrong `[TCS, Infosys, Wipro]`
-- [ ] **Q47:** Write function for Fibonacci `[TCS, Infosys, Wipro]`
-- [ ] **Q48:** Write function for perfect number `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q45:** Write function for palindrome `[TCS, Infosys, Wipro]`✅
+- [x] **Q46:** Write function for Armstrong `[TCS, Infosys, Wipro]`✅
+- [x] **Q47:** Write function for Fibonacci `[TCS, Infosys, Wipro]`✅
+- [x] **Q48:** Write function for perfect number `[TCS, Infosys, Wipro]`✅
 
 ---
 
