@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 48 / 120
+- **Completed:** 52 / 120
 
 
 ---
@@ -129,11 +129,11 @@
 ---
 
 ### 📅 Day 13: Array Basics
-*Status: ⚪ Not Started*
-- [ ] **Q49:** Input and display array `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q50:** Find sum and average of array `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q51:** Find largest and smallest element `[TCS, Infosys, Wipro]`
-- [ ] **Q52:** Count even and odd elements `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q49:** Input and display array `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q50:** Find sum and average of array `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q51:** Find largest and smallest element `[TCS, Infosys, Wipro]`✅
+- [x] **Q52:** Count even and odd elements `[TCS, Infosys, Wipro]`✅
 
 ---
 
