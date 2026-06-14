@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 52 / 120
+- **Completed:** 56 / 120
 
 
 ---
@@ -138,11 +138,11 @@
 ---
 
 ### 📅 Day 14: Array Searching & Logic
-*Status: ⚪ Not Started*
-- [ ] **Q53:** Linear search `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q54:** Frequency of an element `[TCS, Infosys, Wipro]`
-- [ ] **Q55:** Second largest element `[TCS, Infosys, Wipro]`
-- [ ] **Q56:** Find duplicates in array `[Amazon, Deloitte, Capgemini]`
+*Status: 🟢 Completed*
+- [x] **Q53:** Linear search `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q54:** Frequency of an element `[TCS, Infosys, Wipro]`✅
+- [x] **Q55:** Second largest element `[TCS, Infosys, Wipro]`✅
+- [x] **Q56:** Find duplicates in array `[Amazon, Deloitte, Capgemini]`✅
 
 ---
 
