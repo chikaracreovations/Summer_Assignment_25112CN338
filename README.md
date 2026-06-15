@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 56 / 120
+- **Completed:** 60 / 120
 
 
 ---
@@ -147,11 +147,11 @@
 ---
 
 ### 📅 Day 15: Array Manipulation
-*Status: ⚪ Not Started*
-- [ ] **Q57:** Reverse array `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q58:** Rotate array left `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q59:** Rotate array right `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q60:** Move zeroes to end `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q57:** Reverse array `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q58:** Rotate array left `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q59:** Rotate array right `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q60:** Move zeroes to end `[TCS, Infosys, Wipro]`✅
 
 ---
 
