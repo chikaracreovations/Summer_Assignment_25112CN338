@@ -156,11 +156,11 @@
 ---
 
 ### 📅 Day 16: Intermediate Array Operations
-*Status: ⚪ Not Started*
-- [ ] **Q61:** Find missing number in array `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q62:** Find maximum frequency element `[TCS, Infosys, Wipro]`
-- [ ] **Q63:** Find pair with given sum `[TCS, Infosys, Wipro]`
-- [ ] **Q64:** Remove duplicates from array `[Amazon, Deloitte, Capgemini]`
+*Status: 🟢 Completed*
+- [x] **Q61:** Find missing number in array `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q62:** Find maximum frequency element `[TCS, Infosys, Wipro]`✅
+- [x] **Q63:** Find pair with given sum `[TCS, Infosys, Wipro]`✅
+- [x] **Q64:** Remove duplicates from array `[Amazon, Deloitte, Capgemini]`✅
 
 ---
 
