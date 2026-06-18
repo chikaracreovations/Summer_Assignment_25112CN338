@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 60 / 120
+- **Completed:** 72 / 120
 
 
 ---
