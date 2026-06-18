@@ -165,20 +165,20 @@
 ---
 
 ### 📅 Day 17: Array Set Operations & Merging
-*Status: ⚪ Not Started*
-- [ ] **Q65:** Merge arrays `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q66:** Union of arrays `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q67:** Intersection of arrays `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q68:** Find common elements `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q65:** Merge arrays `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q66:** Union of arrays `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q67:** Intersection of arrays `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q68:** Find common elements `[TCS, Infosys, Wipro]`✅
 
 ---
 
 ### 📅 Day 18: Sorting & Searching Algorithms
-*Status: ⚪ Not Started*
-- [ ] **Q69:** Bubble sort `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q70:** Selection sort `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q71:** Binary search `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q72:** Sort array in descending order `[Amazon, Deloitte, Capgemini]`
+*Status: 🟢 Completed*
+- [x] **Q69:** Bubble sort `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q70:** Selection sort `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q71:** Binary search `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q72:** Sort array in descending order `[Amazon, Deloitte, Capgemini]`✅
 
 ---
 
