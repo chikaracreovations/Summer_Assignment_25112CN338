@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 76 / 120
+- **Completed:** 84 / 120
 
 
 ---
@@ -192,20 +192,20 @@
 ---
 
 ### 📅 Day 20: Matrix Operations
-*Status: ⚪ Not Started*
-- [ ] **Q77:** Multiply matrices `[TCS, Infosys, Wipro]`
-- [ ] **Q78:** Check symmetric matrix `[TCS, Infosys, Wipro]`
-- [ ] **Q79:** Find row-wise sum `[TCS, Infosys, Wipro]`
-- [ ] **Q80:** Find column-wise sum `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q77:** Multiply matrices `[TCS, Infosys, Wipro]`✅
+- [x] **Q78:** Check symmetric matrix `[TCS, Infosys, Wipro]`✅
+- [x] **Q79:** Find row-wise sum `[TCS, Infosys, Wipro]`✅
+- [x] **Q80:** Find column-wise sum `[TCS, Infosys, Wipro]`✅
 
 ---
 
 ### 📅 Day 21: String Basics
-*Status: ⚪ Not Started*
-- [ ] **Q81:** Find string length without strlen() `[Microsoft, Adobe, Paytm]`
-- [ ] **Q82:** Reverse a string `[Microsoft, Adobe, Paytm]`
-- [ ] **Q83:** Count vowels and consonants `[TCS, Infosys, Wipro]`
-- [ ] **Q84:** Convert lowercase to uppercase `[TCS, Infosys, Wipro]`
+*Status: 🟢 Completed*
+- [x] **Q81:** Find string length without strlen() `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q82:** Reverse a string `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q83:** Count vowels and consonants `[TCS, Infosys, Wipro]`✅
+- [x] **Q84:** Convert lowercase to uppercase `[TCS, Infosys, Wipro]`✅
 
 ---
 
