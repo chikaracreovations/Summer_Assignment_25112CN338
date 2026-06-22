@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 84 / 120
+- **Completed:** 88 / 120
 
 
 ---
@@ -210,11 +210,11 @@
 ---
 
 ### 📅 Day 22: String Algorithms & Logic
-*Status: ⚪ Not Started*
-- [ ] **Q85:** Check palindrome string `[Microsoft, Adobe, Paytm]`
-- [ ] **Q86:** Count words in a sentence `[TCS, Infosys, Wipro]`
-- [ ] **Q87:** Character frequency `[Microsoft, Adobe, Paytm]`
-- [ ] **Q88:** Remove spaces from string `[Microsoft, Adobe, Paytm]`
+*Status: 🟢 Completed*
+- [x] **Q85:** Check palindrome string `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q86:** Count words in a sentence `[TCS, Infosys, Wipro]`✅
+- [x] **Q87:** Character frequency `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q88:** Remove spaces from string `[Microsoft, Adobe, Paytm]`✅
 
 ---
 
