@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 88 / 120
+- **Completed:** 92 / 120
 
 
 ---
@@ -219,11 +219,11 @@
 ---
 
 ### 📅 Day 23: Intermediate Strings
-*Status: ⚪ Not Started*
-- [ ] **Q89:** Find first non-repeating character `[Microsoft, Adobe, Paytm]`
-- [ ] **Q90:** Find first repeating character `[Microsoft, Adobe, Paytm]`
-- [ ] **Q91:** Check anagram strings `[Microsoft, Adobe, Paytm]`
-- [ ] **Q92:** Find maximum occurring character `[Microsoft, Adobe, Paytm]`
+*Status: 🟢 Completed*
+- [x] **Q89:** Find first non-repeating character `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q90:** Find first repeating character `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q91:** Check anagram strings `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q92:** Find maximum occurring character `[Microsoft, Adobe, Paytm]`✅
 
 ---
 
