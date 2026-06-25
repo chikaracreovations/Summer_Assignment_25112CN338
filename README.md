@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 92 / 120
+- **Completed:** 100 / 120
 
 
 ---
@@ -228,20 +228,20 @@
 ---
 
 ### 📅 Day 24: Advanced Strings
-*Status: ⚪ Not Started*
-- [ ] **Q93:** Check string rotation `[Microsoft, Adobe, Paytm]`
-- [ ] **Q94:** Compress a string `[Microsoft, Adobe, Paytm]`
-- [ ] **Q95:** Find longest word `[TCS, Infosys, Wipro]`
-- [ ] **Q96:** Remove duplicate characters `[Microsoft, Adobe, Paytm]`
+*Status: 🟢 Completed*
+- [x] **Q93:** Check string rotation `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q94:** Compress a string `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q95:** Find longest word `[TCS, Infosys, Wipro]`✅
+- [x] **Q96:** Remove duplicate characters `[Microsoft, Adobe, Paytm]`✅
 
 ---
 
 ### 📅 Day 25: Complex Operations (Arrays + Strings)
-*Status: ⚪ Not Started*
-- [ ] **Q97:** Merge two sorted arrays `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q98:** Find common characters in strings `[Microsoft, Adobe, Paytm]`
-- [ ] **Q99:** Sort names alphabetically `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q100:** Sort words by length `[Amazon, Deloitte, Capgemini]`
+*Status: 🟢 Completed*
+- [x] **Q97:** Merge two sorted arrays `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q98:** Find common characters in strings `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q99:** Sort names alphabetically `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q100:** Sort words by length `[Amazon, Deloitte, Capgemini]`✅
 
 ---
 
