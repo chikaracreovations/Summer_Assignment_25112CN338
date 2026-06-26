@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 100 / 120
+- **Completed:** 104 / 120
 
 
 ---
@@ -246,11 +246,11 @@
 ---
 
 ### 📅 Day 26: Mini Projects (Standard Applications)
-*Status: ⚪ Not Started*
-- [ ] **Q101:** Create number guessing game `[TCS, Accenture, Cognizant]`
-- [ ] **Q102:** Create voting eligibility system `[TCS, Accenture, Cognizant]`
-- [ ] **Q103:** Create ATM simulation `[TCS, Accenture, Cognizant]`
-- [ ] **Q104:** Create quiz application `[TCS, Accenture, Cognizant]`
+*Status: 🟢 Completed*
+- [x] **Q101:** Create number guessing game `[TCS, Accenture, Cognizant]`✅
+- [x] **Q102:** Create voting eligibility system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q103:** Create ATM simulation `[TCS, Accenture, Cognizant]`✅
+- [x] **Q104:** Create quiz application `[TCS, Accenture, Cognizant]`✅
 
 ---
 
