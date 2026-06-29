@@ -14,7 +14,7 @@
 ## 📊 Overall Progress Dashboard
 
 - **Total Programs:** 120
-- **Completed:** 104 / 120
+- **Completed:** 116 / 120
 
 
 ---
@@ -255,29 +255,29 @@
 ---
 
 ### 📅 Day 27: Mini Projects (Management Systems - 1)
-*Status: ⚪ Not Started*
-- [ ] **Q105:** Create student record management system `[TCS, Accenture, Cognizant]`
-- [ ] **Q106:** Create employee management system `[TCS, Accenture, Cognizant]`
-- [ ] **Q107:** Create salary management system `[TCS, Accenture, Cognizant]`
-- [ ] **Q108:** Create marksheet generation system `[TCS, Accenture, Cognizant]`
+*Status: 🟢 Completed*
+- [x] **Q105:** Create student record management system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q106:** Create employee management system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q107:** Create salary management system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q108:** Create marksheet generation system `[TCS, Accenture, Cognizant]`✅
 
 ---
 
 ### 📅 Day 28: Mini Projects (Management Systems - 2)
-*Status: ⚪ Not Started*
-- [ ] **Q109:** Create library management system `[TCS, Accenture, Cognizant]`
-- [ ] **Q110:** Create bank account system `[TCS, Accenture, Cognizant]`
-- [ ] **Q111:** Create ticket booking system `[TCS, Accenture, Cognizant]`
-- [ ] **Q112:** Create contact management system `[TCS, Accenture, Cognizant]`
+*Status: 🟢 Completed*
+- [x] **Q109:** Create library management system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q110:** Create bank account system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q111:** Create ticket booking system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q112:** Create contact management system `[TCS, Accenture, Cognizant]`✅
 
 ---
 
 ### 📅 Day 29: Menu-Driven Systems
-*Status: ⚪ Not Started*
-- [ ] **Q113:** Create menu-driven calculator `[TCS, Accenture, Cognizant]`
-- [ ] **Q114:** Create menu-driven array operations system `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q115:** Create menu-driven string operations system `[Microsoft, Adobe, Paytm]`
-- [ ] **Q116:** Create inventory management system `[TCS, Accenture, Cognizant]`
+*Status: 🟢 Completed*
+- [x] **Q113:** Create menu-driven calculator `[TCS, Accenture, Cognizant]`✅
+- [x] **Q114:** Create menu-driven array operations system `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q115:** Create menu-driven string operations system `[Microsoft, Adobe, Paytm]`✅
+- [x] **Q116:** Create inventory management system `[TCS, Accenture, Cognizant]`✅
 
 ---
 
