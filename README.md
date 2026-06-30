@@ -282,10 +282,10 @@
 ---
 
 ### 📅 Day 30: Capstone Projects
-*Status: ⚪ Not Started*
-- [ ] **Q117:** Create student record system using arrays and strings `[Amazon, Deloitte, Capgemini]`
-- [ ] **Q118:** Create mini library system `[TCS, Accenture, Cognizant]`
-- [ ] **Q119:** Create mini employee management system `[TCS, Accenture, Cognizant]`
-- [ ] **Q120:** Develop complete mini project using arrays, strings and functions `[Amazon, Deloitte, Capgemini]`
+*Status: 🟢 Completed*
+- [x] **Q117:** Create student record system using arrays and strings `[Amazon, Deloitte, Capgemini]`✅
+- [x] **Q118:** Create mini library system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q119:** Create mini employee management system `[TCS, Accenture, Cognizant]`✅
+- [x] **Q120:** Develop complete mini project using arrays, strings and functions `[Amazon, Deloitte, Capgemini]`✅
 
 ---
